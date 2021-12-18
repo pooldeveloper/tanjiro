@@ -48,8 +48,8 @@ const Animes = () => {
   document.body.classList.remove("bg");
   const episodes = [
     {
-      title: "Capitulo 1",
-      url: "https://mega.nz/embed/9hdD1aBS#BbQ3HCF3K6SfT58rcVhjeCvGAMXPmbTunsL7dQmvHjo"
+      title: "Kimetsu No Yaiba , OTS Episodio 19 [Kamado Tanjirou No Uta] sub Español Completo",
+      url: "https://www.youtube.com/watch?v=fxtTfq7N_uo"
     }
   ]
   
